@@ -1,5 +1,5 @@
 
-import Card from "../Layouts/card"
+import Card from "../Layouts/Card.jsx";
 const Plans = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center item-center md:px-32 px-5 ">

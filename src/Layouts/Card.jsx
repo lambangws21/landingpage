@@ -1,6 +1,6 @@
 import { HandCoins, CheckCircle2 } from "lucide-react";
 import PropTypes from "prop-types";
-import { Button } from "./Button";
+import { Button } from "./Button.jsx";
 const Card = (props) => {
   return (
     <div className="flex flex-col bg-teal-500/70 w-full md:w-1/3 p-5 rounded-lg card shadow-lg">
