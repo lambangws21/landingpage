@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.button-navbar {
+  @layer: hover:text-brightRed transition-all cursor-pointer py-2 px-4 te rounded-3xl outline-brightRed outline-4 border-brightRed border
+}
